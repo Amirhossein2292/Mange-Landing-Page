@@ -1,0 +1,6 @@
+export {default as AboutUs } from './AboutUs'
+export {default as Pricing } from './Pricing'
+export {default as Product } from './Product'
+export {default as Community } from './Community'
+export {default as Home } from './Home'
+export {default as Careers } from './Careers'
